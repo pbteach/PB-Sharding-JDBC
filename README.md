@@ -21,7 +21,7 @@ http://www.pbteach.com/post/java_distribut/sharding-jdbc-08/
 
 ## 视频下载：
 
-http://www.pbteach.com/post/java_video/subject_shardingjdbc/
+http://www.pbteach.com/post/java_distribut/subject_shardingjdbc/
 
 
 
